@@ -11,4 +11,4 @@
 7. Bash
 8. Ruby
 9. C#
-10.Rust
+10. Rust
