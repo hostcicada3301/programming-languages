@@ -10,3 +10,6 @@
 6. R
 7. Bash
 8. Ruby
+9. C#
+10. Rust
+11. Wolfram Alpha
